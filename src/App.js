@@ -1,12 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
-import { Button } from '@mui/material';
+import Button from '@mui/material/Button';
 import AcUnitIcon from '@mui/icons-material/AcUnit';
 import { styles } from './styles';
 
 function App() {
-
-  
 
   return (
     <div>
